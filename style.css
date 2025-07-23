@@ -50,7 +50,7 @@ body {
   flex-direction: column;
   gap: 20px;
   width: 80%;
-  margin: 50px  auto 20px auto;
+  margin: 50px auto 20px auto;
   padding: 50px;
   background-color: white;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -76,7 +76,7 @@ a {
   font-size: 18px;
   font-weight: bold;
   color: white;
-  background-color: #E21E28;
+  background-color: #e21e28;
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -85,6 +85,10 @@ a {
 }
 .btn:hover {
   background-color: #ff0000;
+}
+
+h2{
+  margin-bottom:10px ;
 }
 
 h3 {
